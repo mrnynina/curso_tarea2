@@ -7,6 +7,8 @@ Es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto esto 
 
 Acciones para probar git reset --soft HEAD~1 para restaurar
 
+Acciones para probar git reset --hard HEAD~1
+
 
 ## Authors
 
