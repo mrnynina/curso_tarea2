@@ -3,7 +3,11 @@
 
 Es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto esto proyecto ayuda al desarrollo .......
 
-Ya se realizo la prueba con reset --soft HEAD~1 
+
+
+Acciones para probar git reset --soft HEAD~1 para restaurar
+
+
 ## Authors
 
 - [marian_nina@gmail.com](https://www.github.com/maria)
