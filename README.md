@@ -10,7 +10,11 @@ Ya se realizo la prueba con reset --soft HEAD~1
 - [rosario@gmail.com](https://www.github.com/maria)
 - [juanita@gmail.com](https://www.github.com/maria)
 
+<<<<<<< Updated upstream
 Realizando la prueba con git stash
+=======
+Cambios para la prueba de gitstash
+>>>>>>> Stashed changes
 
 ## Installation
 
